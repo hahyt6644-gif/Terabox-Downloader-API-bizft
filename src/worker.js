@@ -1,4 +1,4 @@
-const COOKIE = "ENTE_YOUR_TERABOX_COOKIES" // Replace with your actual cookie
+const COOKIE = "ndus=YeZSQg3teHuicTHISZCWVsYT7RYNEVLex--5At3d" // Replace with your actual cookie
 
 const HEADERS = {
   "Accept": "application/json, text/plain, */*",
